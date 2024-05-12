@@ -53,7 +53,7 @@ Gerencia o processo de reserva de quartos.<br/>Disponível em:
 
 Documentação Swagger disponível através do navegador em:
 
-    http://localhost:8080/api/v1/hoteis/reserva/swagger
+    http://localhost:8080/api/v1/reservas/swagger
 
 Repositório disponível em:
 
